@@ -176,3 +176,5 @@ For questions, issues, or suggestions, please open an issue on the [GitHub repos
 
 - Developed for differential scanning calorimetry data analysis in materials science research
 - Designed with user-friendly interfaces for both novice and experienced MATLAB users
+- Many thanks to Jai Gupta for being a supportive and insightful supervisor throughout my internship. I’ve greatly enjoyed learning about materials and polymers, and I’m truly grateful for the guidance and knowledge shared during this time.
+- Thanks to the materials science community for feedback and testing
